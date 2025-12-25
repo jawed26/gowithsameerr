@@ -437,6 +437,7 @@ img {
         transition: all 0.3s ease;
         opacity: 0;
         visibility: hidden;
+        z-index: 5;
     }
     .navbar.active {
         opacity: 1;
@@ -553,6 +554,7 @@ img {
         grid-template-columns: repeat(1, 1fr);
     }
 }
+
 
 
 
