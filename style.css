@@ -459,6 +459,7 @@ img {
         width: 22px;
         height: 20px;
         position: relative;
+        z-index: 6;
     }
     .nav-menu-bar .bar-line:nth-child(2) {
         position: absolute;
@@ -554,6 +555,7 @@ img {
         grid-template-columns: repeat(1, 1fr);
     }
 }
+
 
 
 
