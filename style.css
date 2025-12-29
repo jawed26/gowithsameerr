@@ -449,7 +449,7 @@ img {
         line-height: 1.2;
     }
     .header-flex {
-        padding: 25px 0px 0;
+        padding: 20px 0px 0;
     }
     .navbar {
         position: fixed;
@@ -590,6 +590,7 @@ img {
         justify-content: center;
     }
 }
+
 
 
 
