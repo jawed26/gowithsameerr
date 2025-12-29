@@ -466,6 +466,7 @@ img {
         transition: all 0.3s ease;
         opacity: 0;
         visibility: hidden;
+        z-index: 1;
     }
     .navbar.active {
         opacity: 1;
@@ -588,6 +589,7 @@ img {
         justify-content: center;
     }
 }
+
 
 
 
