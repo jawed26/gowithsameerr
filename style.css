@@ -24,7 +24,7 @@
     --text-font-weight: 400;
     --vertical-spacing: 120px;
     --horizontal-spacing: 40px;
-}
+} 
 html {
     line-height: 1.4;
     font-weight: var(--text-font-weight);
@@ -590,6 +590,7 @@ img {
         justify-content: center;
     }
 }
+
 
 
 
