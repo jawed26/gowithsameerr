@@ -215,6 +215,7 @@ img {
     margin: 6px 0 0;
     line-height: 1.6;
     font-weight: 300;
+    color: #373737;
 }
 .main-banner-title {
     margin: 0 0 20px;
@@ -598,6 +599,7 @@ img {
         justify-content: center;
     }
 }
+
 
 
 
