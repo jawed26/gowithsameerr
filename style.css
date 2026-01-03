@@ -127,6 +127,13 @@ img {
     font-weight: 600;
     letter-spacing: 0.3px;
 }
+.logo-subtitle {
+    font-size: 16px;
+    font-weight: 300;
+    position: relative;
+    top: 3px;
+    opacity: 0.8;
+}
 .logo-circle-dot {
     width: 25px;
     height: 25px;
@@ -590,6 +597,7 @@ img {
         justify-content: center;
     }
 }
+
 
 
 
