@@ -245,9 +245,9 @@ img {
     width: 100%;
     height: 140px;
     border-radius: 99px;
-    font-weight: 600;
+    font-weight: 400;
     padding: 10px;
-    font-size: calc(var(--base-font-size) + 6px);
+    font-size: calc(var(--base-font-size) + 3px);
     color: var(--text-color);
     border: 1px solid var(--secondary-color);
     display: flex;
@@ -257,6 +257,7 @@ img {
     transition: all 0.3s ease;
     line-height: 1.2;
     font-family: "Work Sans", sans-serif;
+    letter-spacing: -0.5px;
 }
 .main-banner-btn1 {
     background: #eea302;
@@ -597,6 +598,7 @@ img {
         justify-content: center;
     }
 }
+
 
 
 
